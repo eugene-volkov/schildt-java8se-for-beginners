@@ -1,1 +1,1 @@
-# schildt-java8se-for-beginners
+# Exercises from Herbert Schildt - Java 8: A Beginner's Guide
